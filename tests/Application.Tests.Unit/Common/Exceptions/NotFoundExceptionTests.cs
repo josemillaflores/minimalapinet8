@@ -67,4 +67,30 @@ public class NotFoundExceptionTests
 
         result.Message.ShouldBe("The Author with the supplied id was not found.");
     }
+    [Fact]
+    public void Method_WhenArgumentIsNull_ThrowsException()
+    {
+        // Arrange
+        var entityType = "SomeEntityType"; // Puede ser cualquier valor para entityType
+        object argument = null;
+
+        // Act & Assert
+        var exception = Assert.Throws<Exception>(() =>
+        {
+            if (argument is null) Throw(entityType);
+            {
+                Throw(entityType);
+            }
+        });
+
+        // Puedes agregar más aserciones sobre la excepción si es necesario
+        Assert.Equal($"Mensaje esperado para {entityType}", exception.Message);
+    }
+
+    // Asumiendo que Throw es un método que lanza una excepción como:
+    private void Throw(string entityType)
+    {
+        throw new Exception($"Mensaje esperado para {entityType}");
+    }
+
 }

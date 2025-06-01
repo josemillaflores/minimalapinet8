@@ -10,4 +10,6 @@ public interface IAuthorsRepository
     Task<Author> GetAuthorById(Guid id, CancellationToken cancellationToken);
 
     Task<bool> AuthorExists(Guid id, CancellationToken cancellationToken);
+
+    
 }
