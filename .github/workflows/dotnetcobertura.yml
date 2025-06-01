@@ -1,0 +1,46 @@
+name: .NET CI - Build, Test and Code Coverage on feature/net8MinApi
+
+on:
+  push:
+    branches:
+      - feature/net8MinApi # Ejecuta solo en pushes a esta rama específica
+
+jobs:
+  build-and-test:
+    runs-on: windows-latest # Tu script es PowerShell, por lo que windows-latest es una buena elección
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v4
+      with:
+        dotnet-version: '8.0.x' # Especifica la versión de .NET SDK que usa tu proyecto
+
+    - name: Run Test and Coverage Script
+      shell: pwsh
+      run: ./coverage-all.ps1 # Asume que coverage-all.ps1 está en la raíz del repo
+      # El script ya maneja la instalación de herramientas y los códigos de salida.
+
+    - name: Upload Test Results (TRX)
+      if: always() # Sube los resultados incluso si los tests fallan
+      uses: actions/upload-artifact@v4
+      with:
+        name: test-results
+        path: coverage/test_results/**/*.trx # La ruta donde tu script guarda los .trx
+
+    - name: Upload Coverage Report (HTML)
+      if: success() # Sube el reporte de cobertura solo si los tests pasan y el script se completa
+      uses: actions/upload-artifact@v4
+      with:
+        name: coverage-report-html
+        path: coverage/html # La ruta donde tu script guarda el reporte HTML de cobertura
+
+    - name: Upload Test Failures Report (HTML)
+      if: failure() # Sube el reporte de fallos solo si el paso 'Run Test and Coverage Script' falla
+      uses: actions/upload-artifact@v4
+      with:
+        name: test-failures-report-html
+        path: coverage/test_failures_report.html # La ruta donde tu script guarda el reporte de fallos
+
