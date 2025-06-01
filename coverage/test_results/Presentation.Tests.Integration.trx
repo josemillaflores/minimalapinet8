@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="a5d14bab-c84a-4869-9721-973340590453" name="jlmil@DESKTOP-LFUIUT3 2025-05-31 21:53:29" runUser="DESKTOP-LFUIUT3\jlmil" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2025-05-31T21:53:29.7800133-05:00" queuing="2025-05-31T21:53:29.7800137-05:00" start="2025-05-31T21:53:20.6864780-05:00" finish="2025-05-31T21:53:33.3045915-05:00" />
+  <TestSettings name="default" id="655397bc-c0a1-43db-b4c2-db31fdd67e72">
+    <Deployment runDeploymentRoot="jlmil_DESKTOP-LFUIUT3_2025-05-31_21_53_29" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="914c40a8-7726-4195-ae4c-6cfc7d39b6fb" testId="4adb1ff9-7588-3ee5-96eb-9ca3694912aa" testName="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.ReviewEndpointTests.GetReviewId_ShouldReturn_ValidationProblem(input: &quot;fake&quot;)" computerName="DESKTOP-LFUIUT3" duration="00:00:00.0912419" startTime="2025-05-31T21:53:32.5453142-05:00" endTime="2025-05-31T21:53:32.5453146-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="914c40a8-7726-4195-ae4c-6cfc7d39b6fb" />
+    <UnitTestResult executionId="93386641-edab-4454-9f53-7573c7feb29a" testId="c5e485be-dc90-5c39-3666-69aee7769a56" testName="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.ReviewEndpointTests.GetReviewId_ShouldReturn_ValidationProblem(input: &quot;00000000-0000-0000-0000-000000000000&quot;)" computerName="DESKTOP-LFUIUT3" duration="00:00:00.0939607" startTime="2025-05-31T21:53:32.3591712-05:00" endTime="2025-05-31T21:53:32.3591716-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="93386641-edab-4454-9f53-7573c7feb29a" />
+    <UnitTestResult executionId="3b37218f-3ff5-4175-a58b-306933e302c0" testId="d04e90a8-dc6a-2dad-303b-df2f794fe1b2" testName="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.MovieEndpointTests.GetMovieId_ShouldReturn_ValidationProblem(input: &quot;00000000-0000-0000-0000-000000000000&quot;)" computerName="DESKTOP-LFUIUT3" duration="00:00:00.1314084" startTime="2025-05-31T21:53:31.9714030-05:00" endTime="2025-05-31T21:53:31.9714033-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3b37218f-3ff5-4175-a58b-306933e302c0" />
+    <UnitTestResult executionId="e77bd2f2-733b-4fd5-ae7c-1c38feef7e23" testId="ab20d6c3-5690-45f0-1a39-e8fa2ad6ccce" testName="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.AuthorEndpointTests.GetAuthorById_ShouldReturn_ValidationProblem(input: &quot;1&quot;)" computerName="DESKTOP-LFUIUT3" duration="00:00:00.2056012" startTime="2025-05-31T21:53:29.9381866-05:00" endTime="2025-05-31T21:53:29.9381870-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e77bd2f2-733b-4fd5-ae7c-1c38feef7e23" />
+    <UnitTestResult executionId="d2312065-feb4-47d1-bdaa-01b4b943793c" testId="6a723af1-3217-3fe3-5cde-6a47964f0907" testName="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.ReviewEndpointTests.GetReviews_ShouldReturn_Ok" computerName="DESKTOP-LFUIUT3" duration="00:00:00.2313653" startTime="2025-05-31T21:53:32.2644674-05:00" endTime="2025-05-31T21:53:32.2644677-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d2312065-feb4-47d1-bdaa-01b4b943793c" />
+    <UnitTestResult executionId="c7e03b85-2561-48ed-86d3-73f3fdd9f05d" testId="5b4ba734-0c45-10f6-bf65-59ca7a952330" testName="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.AuthorEndpointTests.GetAuthorById_ShouldReturn_ValidationProblem(input: &quot;00000000-0000-0000-0000-000000000000&quot;)" computerName="DESKTOP-LFUIUT3" duration="00:00:00.1192965" startTime="2025-05-31T21:53:30.0584434-05:00" endTime="2025-05-31T21:53:30.0584439-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c7e03b85-2561-48ed-86d3-73f3fdd9f05d" />
+    <UnitTestResult executionId="f6bcf195-799f-49cd-8d57-26923b355489" testId="cfc7d755-80ff-a355-e474-ce168d84bb09" testName="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.VersionEndpointTests.GetVersion_ShouldReturn_Ok" computerName="DESKTOP-LFUIUT3" duration="00:00:05.5461584" startTime="2025-05-31T21:53:29.7346295-05:00" endTime="2025-05-31T21:53:29.7346303-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f6bcf195-799f-49cd-8d57-26923b355489" />
+    <UnitTestResult executionId="ad8fdd72-f21d-4ee5-8e7a-de6413742f81" testId="d8418219-da30-13ab-ec51-efc8fd0d35bb" testName="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.MovieEndpointTests.GetMovieId_ShouldReturn_ValidationProblem(input: &quot;1&quot;)" computerName="DESKTOP-LFUIUT3" duration="00:00:00.1142304" startTime="2025-05-31T21:53:32.0864503-05:00" endTime="2025-05-31T21:53:32.0864504-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ad8fdd72-f21d-4ee5-8e7a-de6413742f81" />
+    <UnitTestResult executionId="8f394985-991c-411f-bb2a-590c38ebb31d" testId="545df5b3-1f87-6ed7-fde4-749a8c229af3" testName="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.ReviewEndpointTests.GetReviewById_ShouldReturn_Ok" computerName="DESKTOP-LFUIUT3" duration="00:00:00.1543808" startTime="2025-05-31T21:53:32.7003708-05:00" endTime="2025-05-31T21:53:32.7003711-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8f394985-991c-411f-bb2a-590c38ebb31d" />
+    <UnitTestResult executionId="44582064-535a-43bb-9cbc-4df97f29a5a8" testId="b0090688-a186-0925-4486-c7db650b82c1" testName="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.MovieEndpointTests.GetMovieById_ShouldReturn_Ok" computerName="DESKTOP-LFUIUT3" duration="00:00:00.2845919" startTime="2025-05-31T21:53:32.4886926-05:00" endTime="2025-05-31T21:53:32.4886927-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="44582064-535a-43bb-9cbc-4df97f29a5a8" />
+    <UnitTestResult executionId="fa05c54a-01fe-4085-9f15-8956f556adf3" testId="b6df9021-9ebc-7281-325d-619d6d56e88e" testName="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.ReviewEndpointTests.UpdateReview_ShouldReturn_NoContent" computerName="DESKTOP-LFUIUT3" duration="00:00:00.2267323" startTime="2025-05-31T21:53:33.1677181-05:00" endTime="2025-05-31T21:53:33.1677185-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fa05c54a-01fe-4085-9f15-8956f556adf3" />
+    <UnitTestResult executionId="d0e07a01-fb98-4ee9-ad83-bca048fa0cdc" testId="5b0d5629-0953-77e2-6a88-019122234fc5" testName="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.MovieEndpointTests.GetMovies_ShouldReturn_Ok" computerName="DESKTOP-LFUIUT3" duration="00:00:07.6627623" startTime="2025-05-31T21:53:31.8393889-05:00" endTime="2025-05-31T21:53:31.8393892-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d0e07a01-fb98-4ee9-ad83-bca048fa0cdc" />
+    <UnitTestResult executionId="0a612d6a-5446-4641-937c-f3f8f27961fa" testId="9c237736-64a7-fdf4-55f7-8b1b0bd598cb" testName="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.MovieEndpointTests.GetMovieId_ShouldReturn_ValidationProblem(input: &quot;fake&quot;)" computerName="DESKTOP-LFUIUT3" duration="00:00:00.1156686" startTime="2025-05-31T21:53:32.2028826-05:00" endTime="2025-05-31T21:53:32.2028829-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0a612d6a-5446-4641-937c-f3f8f27961fa" />
+    <UnitTestResult executionId="5b038354-0a49-470a-a0d3-6b3721178281" testId="12fa0309-239e-b846-9a7e-9f928476c203" testName="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.AuthorEndpointTests.GetAuthors_ShouldReturn_Ok" computerName="DESKTOP-LFUIUT3" duration="00:00:01.7797847" startTime="2025-05-31T21:53:31.8392616-05:00" endTime="2025-05-31T21:53:31.8392620-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5b038354-0a49-470a-a0d3-6b3721178281" />
+    <UnitTestResult executionId="50c40b07-c4df-4124-964d-01fcbb6f8f07" testId="cf85fb58-cb77-a4de-9257-06530699a124" testName="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.AuthorEndpointTests.GetAuthorById_ShouldReturn_ValidationProblem(input: &quot;fake&quot;)" computerName="DESKTOP-LFUIUT3" duration="00:00:05.5476156" startTime="2025-05-31T21:53:29.7309966-05:00" endTime="2025-05-31T21:53:29.7310285-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="50c40b07-c4df-4124-964d-01fcbb6f8f07" />
+    <UnitTestResult executionId="00ab2071-424a-4efc-93a1-59d6dad32827" testId="b473ccd2-abd3-af2d-7ff4-2b619983e9f5" testName="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.AuthorEndpointTests.GetAuthorById_ShouldReturn_Ok" computerName="DESKTOP-LFUIUT3" duration="00:00:00.4097742" startTime="2025-05-31T21:53:32.2497508-05:00" endTime="2025-05-31T21:53:32.2497511-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="00ab2071-424a-4efc-93a1-59d6dad32827" />
+    <UnitTestResult executionId="cd0c96ed-2bb3-4d20-84ac-9f7f0756edba" testId="5cb8968a-3713-5dbf-f13f-2da59995cedd" testName="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.ReviewEndpointTests.DeleteReview_ShouldReturn_NoContent" computerName="DESKTOP-LFUIUT3" duration="00:00:07.8556985" startTime="2025-05-31T21:53:32.0323221-05:00" endTime="2025-05-31T21:53:32.0323224-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="cd0c96ed-2bb3-4d20-84ac-9f7f0756edba" />
+    <UnitTestResult executionId="0e65afb8-db07-4e4e-9f5e-5db2f61599ab" testId="567a1bd3-60a9-cd47-b522-b4deb8445bd0" testName="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.ReviewEndpointTests.CreateReview_ShouldReturn_Created" computerName="DESKTOP-LFUIUT3" duration="00:00:00.2391005" startTime="2025-05-31T21:53:32.9402125-05:00" endTime="2025-05-31T21:53:32.9402129-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0e65afb8-db07-4e4e-9f5e-5db2f61599ab" />
+    <UnitTestResult executionId="bcf19e25-2f61-4b2c-a1bc-4abe3e1350dd" testId="8eda6614-0c5e-8587-21eb-6297adcd3dc0" testName="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.ReviewEndpointTests.GetReviewId_ShouldReturn_ValidationProblem(input: &quot;1&quot;)" computerName="DESKTOP-LFUIUT3" duration="00:00:00.0933619" startTime="2025-05-31T21:53:32.4532403-05:00" endTime="2025-05-31T21:53:32.4532406-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bcf19e25-2f61-4b2c-a1bc-4abe3e1350dd" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.VersionEndpointTests.GetVersion_ShouldReturn_Ok" storage="d:\unidaddocumentos\jose\cursos\azure_ia\netclean\minimalapinet8\tests\presentation.tests.integration\bin\debug\net8.0\presentation.tests.integration.dll" id="cfc7d755-80ff-a355-e474-ce168d84bb09">
+      <Execution id="f6bcf195-799f-49cd-8d57-26923b355489" />
+      <TestMethod codeBase="D:\UnidadDocumentos\jose\CURSOS\AZURE_IA\netClean\minimalapinet8\tests\Presentation.Tests.Integration\bin\Debug\net8.0\Presentation.Tests.Integration.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.VersionEndpointTests" name="GetVersion_ShouldReturn_Ok" />
+    </UnitTest>
+    <UnitTest name="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.ReviewEndpointTests.GetReviewById_ShouldReturn_Ok" storage="d:\unidaddocumentos\jose\cursos\azure_ia\netclean\minimalapinet8\tests\presentation.tests.integration\bin\debug\net8.0\presentation.tests.integration.dll" id="545df5b3-1f87-6ed7-fde4-749a8c229af3">
+      <Execution id="8f394985-991c-411f-bb2a-590c38ebb31d" />
+      <TestMethod codeBase="D:\UnidadDocumentos\jose\CURSOS\AZURE_IA\netClean\minimalapinet8\tests\Presentation.Tests.Integration\bin\Debug\net8.0\Presentation.Tests.Integration.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.ReviewEndpointTests" name="GetReviewById_ShouldReturn_Ok" />
+    </UnitTest>
+    <UnitTest name="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.MovieEndpointTests.GetMovieId_ShouldReturn_ValidationProblem(input: &quot;fake&quot;)" storage="d:\unidaddocumentos\jose\cursos\azure_ia\netclean\minimalapinet8\tests\presentation.tests.integration\bin\debug\net8.0\presentation.tests.integration.dll" id="9c237736-64a7-fdf4-55f7-8b1b0bd598cb">
+      <Execution id="0a612d6a-5446-4641-937c-f3f8f27961fa" />
+      <TestMethod codeBase="D:\UnidadDocumentos\jose\CURSOS\AZURE_IA\netClean\minimalapinet8\tests\Presentation.Tests.Integration\bin\Debug\net8.0\Presentation.Tests.Integration.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.MovieEndpointTests" name="GetMovieId_ShouldReturn_ValidationProblem" />
+    </UnitTest>
+    <UnitTest name="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.AuthorEndpointTests.GetAuthors_ShouldReturn_Ok" storage="d:\unidaddocumentos\jose\cursos\azure_ia\netclean\minimalapinet8\tests\presentation.tests.integration\bin\debug\net8.0\presentation.tests.integration.dll" id="12fa0309-239e-b846-9a7e-9f928476c203">
+      <Execution id="5b038354-0a49-470a-a0d3-6b3721178281" />
+      <TestMethod codeBase="D:\UnidadDocumentos\jose\CURSOS\AZURE_IA\netClean\minimalapinet8\tests\Presentation.Tests.Integration\bin\Debug\net8.0\Presentation.Tests.Integration.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.AuthorEndpointTests" name="GetAuthors_ShouldReturn_Ok" />
+    </UnitTest>
+    <UnitTest name="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.MovieEndpointTests.GetMovies_ShouldReturn_Ok" storage="d:\unidaddocumentos\jose\cursos\azure_ia\netclean\minimalapinet8\tests\presentation.tests.integration\bin\debug\net8.0\presentation.tests.integration.dll" id="5b0d5629-0953-77e2-6a88-019122234fc5">
+      <Execution id="d0e07a01-fb98-4ee9-ad83-bca048fa0cdc" />
+      <TestMethod codeBase="D:\UnidadDocumentos\jose\CURSOS\AZURE_IA\netClean\minimalapinet8\tests\Presentation.Tests.Integration\bin\Debug\net8.0\Presentation.Tests.Integration.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.MovieEndpointTests" name="GetMovies_ShouldReturn_Ok" />
+    </UnitTest>
+    <UnitTest name="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.ReviewEndpointTests.CreateReview_ShouldReturn_Created" storage="d:\unidaddocumentos\jose\cursos\azure_ia\netclean\minimalapinet8\tests\presentation.tests.integration\bin\debug\net8.0\presentation.tests.integration.dll" id="567a1bd3-60a9-cd47-b522-b4deb8445bd0">
+      <Execution id="0e65afb8-db07-4e4e-9f5e-5db2f61599ab" />
+      <TestMethod codeBase="D:\UnidadDocumentos\jose\CURSOS\AZURE_IA\netClean\minimalapinet8\tests\Presentation.Tests.Integration\bin\Debug\net8.0\Presentation.Tests.Integration.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.ReviewEndpointTests" name="CreateReview_ShouldReturn_Created" />
+    </UnitTest>
+    <UnitTest name="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.ReviewEndpointTests.GetReviewId_ShouldReturn_ValidationProblem(input: &quot;fake&quot;)" storage="d:\unidaddocumentos\jose\cursos\azure_ia\netclean\minimalapinet8\tests\presentation.tests.integration\bin\debug\net8.0\presentation.tests.integration.dll" id="4adb1ff9-7588-3ee5-96eb-9ca3694912aa">
+      <Execution id="914c40a8-7726-4195-ae4c-6cfc7d39b6fb" />
+      <TestMethod codeBase="D:\UnidadDocumentos\jose\CURSOS\AZURE_IA\netClean\minimalapinet8\tests\Presentation.Tests.Integration\bin\Debug\net8.0\Presentation.Tests.Integration.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.ReviewEndpointTests" name="GetReviewId_ShouldReturn_ValidationProblem" />
+    </UnitTest>
+    <UnitTest name="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.ReviewEndpointTests.UpdateReview_ShouldReturn_NoContent" storage="d:\unidaddocumentos\jose\cursos\azure_ia\netclean\minimalapinet8\tests\presentation.tests.integration\bin\debug\net8.0\presentation.tests.integration.dll" id="b6df9021-9ebc-7281-325d-619d6d56e88e">
+      <Execution id="fa05c54a-01fe-4085-9f15-8956f556adf3" />
+      <TestMethod codeBase="D:\UnidadDocumentos\jose\CURSOS\AZURE_IA\netClean\minimalapinet8\tests\Presentation.Tests.Integration\bin\Debug\net8.0\Presentation.Tests.Integration.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.ReviewEndpointTests" name="UpdateReview_ShouldReturn_NoContent" />
+    </UnitTest>
+    <UnitTest name="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.ReviewEndpointTests.GetReviews_ShouldReturn_Ok" storage="d:\unidaddocumentos\jose\cursos\azure_ia\netclean\minimalapinet8\tests\presentation.tests.integration\bin\debug\net8.0\presentation.tests.integration.dll" id="6a723af1-3217-3fe3-5cde-6a47964f0907">
+      <Execution id="d2312065-feb4-47d1-bdaa-01b4b943793c" />
+      <TestMethod codeBase="D:\UnidadDocumentos\jose\CURSOS\AZURE_IA\netClean\minimalapinet8\tests\Presentation.Tests.Integration\bin\Debug\net8.0\Presentation.Tests.Integration.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.ReviewEndpointTests" name="GetReviews_ShouldReturn_Ok" />
+    </UnitTest>
+    <UnitTest name="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.AuthorEndpointTests.GetAuthorById_ShouldReturn_ValidationProblem(input: &quot;fake&quot;)" storage="d:\unidaddocumentos\jose\cursos\azure_ia\netclean\minimalapinet8\tests\presentation.tests.integration\bin\debug\net8.0\presentation.tests.integration.dll" id="cf85fb58-cb77-a4de-9257-06530699a124">
+      <Execution id="50c40b07-c4df-4124-964d-01fcbb6f8f07" />
+      <TestMethod codeBase="D:\UnidadDocumentos\jose\CURSOS\AZURE_IA\netClean\minimalapinet8\tests\Presentation.Tests.Integration\bin\Debug\net8.0\Presentation.Tests.Integration.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.AuthorEndpointTests" name="GetAuthorById_ShouldReturn_ValidationProblem" />
+    </UnitTest>
+    <UnitTest name="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.ReviewEndpointTests.GetReviewId_ShouldReturn_ValidationProblem(input: &quot;00000000-0000-0000-0000-000000000000&quot;)" storage="d:\unidaddocumentos\jose\cursos\azure_ia\netclean\minimalapinet8\tests\presentation.tests.integration\bin\debug\net8.0\presentation.tests.integration.dll" id="c5e485be-dc90-5c39-3666-69aee7769a56">
+      <Execution id="93386641-edab-4454-9f53-7573c7feb29a" />
+      <TestMethod codeBase="D:\UnidadDocumentos\jose\CURSOS\AZURE_IA\netClean\minimalapinet8\tests\Presentation.Tests.Integration\bin\Debug\net8.0\Presentation.Tests.Integration.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.ReviewEndpointTests" name="GetReviewId_ShouldReturn_ValidationProblem" />
+    </UnitTest>
+    <UnitTest name="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.MovieEndpointTests.GetMovieById_ShouldReturn_Ok" storage="d:\unidaddocumentos\jose\cursos\azure_ia\netclean\minimalapinet8\tests\presentation.tests.integration\bin\debug\net8.0\presentation.tests.integration.dll" id="b0090688-a186-0925-4486-c7db650b82c1">
+      <Execution id="44582064-535a-43bb-9cbc-4df97f29a5a8" />
+      <TestMethod codeBase="D:\UnidadDocumentos\jose\CURSOS\AZURE_IA\netClean\minimalapinet8\tests\Presentation.Tests.Integration\bin\Debug\net8.0\Presentation.Tests.Integration.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.MovieEndpointTests" name="GetMovieById_ShouldReturn_Ok" />
+    </UnitTest>
+    <UnitTest name="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.ReviewEndpointTests.GetReviewId_ShouldReturn_ValidationProblem(input: &quot;1&quot;)" storage="d:\unidaddocumentos\jose\cursos\azure_ia\netclean\minimalapinet8\tests\presentation.tests.integration\bin\debug\net8.0\presentation.tests.integration.dll" id="8eda6614-0c5e-8587-21eb-6297adcd3dc0">
+      <Execution id="bcf19e25-2f61-4b2c-a1bc-4abe3e1350dd" />
+      <TestMethod codeBase="D:\UnidadDocumentos\jose\CURSOS\AZURE_IA\netClean\minimalapinet8\tests\Presentation.Tests.Integration\bin\Debug\net8.0\Presentation.Tests.Integration.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.ReviewEndpointTests" name="GetReviewId_ShouldReturn_ValidationProblem" />
+    </UnitTest>
+    <UnitTest name="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.AuthorEndpointTests.GetAuthorById_ShouldReturn_Ok" storage="d:\unidaddocumentos\jose\cursos\azure_ia\netclean\minimalapinet8\tests\presentation.tests.integration\bin\debug\net8.0\presentation.tests.integration.dll" id="b473ccd2-abd3-af2d-7ff4-2b619983e9f5">
+      <Execution id="00ab2071-424a-4efc-93a1-59d6dad32827" />
+      <TestMethod codeBase="D:\UnidadDocumentos\jose\CURSOS\AZURE_IA\netClean\minimalapinet8\tests\Presentation.Tests.Integration\bin\Debug\net8.0\Presentation.Tests.Integration.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.AuthorEndpointTests" name="GetAuthorById_ShouldReturn_Ok" />
+    </UnitTest>
+    <UnitTest name="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.MovieEndpointTests.GetMovieId_ShouldReturn_ValidationProblem(input: &quot;1&quot;)" storage="d:\unidaddocumentos\jose\cursos\azure_ia\netclean\minimalapinet8\tests\presentation.tests.integration\bin\debug\net8.0\presentation.tests.integration.dll" id="d8418219-da30-13ab-ec51-efc8fd0d35bb">
+      <Execution id="ad8fdd72-f21d-4ee5-8e7a-de6413742f81" />
+      <TestMethod codeBase="D:\UnidadDocumentos\jose\CURSOS\AZURE_IA\netClean\minimalapinet8\tests\Presentation.Tests.Integration\bin\Debug\net8.0\Presentation.Tests.Integration.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.MovieEndpointTests" name="GetMovieId_ShouldReturn_ValidationProblem" />
+    </UnitTest>
+    <UnitTest name="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.AuthorEndpointTests.GetAuthorById_ShouldReturn_ValidationProblem(input: &quot;00000000-0000-0000-0000-000000000000&quot;)" storage="d:\unidaddocumentos\jose\cursos\azure_ia\netclean\minimalapinet8\tests\presentation.tests.integration\bin\debug\net8.0\presentation.tests.integration.dll" id="5b4ba734-0c45-10f6-bf65-59ca7a952330">
+      <Execution id="c7e03b85-2561-48ed-86d3-73f3fdd9f05d" />
+      <TestMethod codeBase="D:\UnidadDocumentos\jose\CURSOS\AZURE_IA\netClean\minimalapinet8\tests\Presentation.Tests.Integration\bin\Debug\net8.0\Presentation.Tests.Integration.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.AuthorEndpointTests" name="GetAuthorById_ShouldReturn_ValidationProblem" />
+    </UnitTest>
+    <UnitTest name="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.ReviewEndpointTests.DeleteReview_ShouldReturn_NoContent" storage="d:\unidaddocumentos\jose\cursos\azure_ia\netclean\minimalapinet8\tests\presentation.tests.integration\bin\debug\net8.0\presentation.tests.integration.dll" id="5cb8968a-3713-5dbf-f13f-2da59995cedd">
+      <Execution id="cd0c96ed-2bb3-4d20-84ac-9f7f0756edba" />
+      <TestMethod codeBase="D:\UnidadDocumentos\jose\CURSOS\AZURE_IA\netClean\minimalapinet8\tests\Presentation.Tests.Integration\bin\Debug\net8.0\Presentation.Tests.Integration.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.ReviewEndpointTests" name="DeleteReview_ShouldReturn_NoContent" />
+    </UnitTest>
+    <UnitTest name="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.MovieEndpointTests.GetMovieId_ShouldReturn_ValidationProblem(input: &quot;00000000-0000-0000-0000-000000000000&quot;)" storage="d:\unidaddocumentos\jose\cursos\azure_ia\netclean\minimalapinet8\tests\presentation.tests.integration\bin\debug\net8.0\presentation.tests.integration.dll" id="d04e90a8-dc6a-2dad-303b-df2f794fe1b2">
+      <Execution id="3b37218f-3ff5-4175-a58b-306933e302c0" />
+      <TestMethod codeBase="D:\UnidadDocumentos\jose\CURSOS\AZURE_IA\netClean\minimalapinet8\tests\Presentation.Tests.Integration\bin\Debug\net8.0\Presentation.Tests.Integration.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.MovieEndpointTests" name="GetMovieId_ShouldReturn_ValidationProblem" />
+    </UnitTest>
+    <UnitTest name="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.AuthorEndpointTests.GetAuthorById_ShouldReturn_ValidationProblem(input: &quot;1&quot;)" storage="d:\unidaddocumentos\jose\cursos\azure_ia\netclean\minimalapinet8\tests\presentation.tests.integration\bin\debug\net8.0\presentation.tests.integration.dll" id="ab20d6c3-5690-45f0-1a39-e8fa2ad6ccce">
+      <Execution id="e77bd2f2-733b-4fd5-ae7c-1c38feef7e23" />
+      <TestMethod codeBase="D:\UnidadDocumentos\jose\CURSOS\AZURE_IA\netClean\minimalapinet8\tests\Presentation.Tests.Integration\bin\Debug\net8.0\Presentation.Tests.Integration.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="CleanMinimalApi.Presentation.Tests.Integration.Endpoints.AuthorEndpointTests" name="GetAuthorById_ShouldReturn_ValidationProblem" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="4adb1ff9-7588-3ee5-96eb-9ca3694912aa" executionId="914c40a8-7726-4195-ae4c-6cfc7d39b6fb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c5e485be-dc90-5c39-3666-69aee7769a56" executionId="93386641-edab-4454-9f53-7573c7feb29a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d04e90a8-dc6a-2dad-303b-df2f794fe1b2" executionId="3b37218f-3ff5-4175-a58b-306933e302c0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ab20d6c3-5690-45f0-1a39-e8fa2ad6ccce" executionId="e77bd2f2-733b-4fd5-ae7c-1c38feef7e23" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6a723af1-3217-3fe3-5cde-6a47964f0907" executionId="d2312065-feb4-47d1-bdaa-01b4b943793c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5b4ba734-0c45-10f6-bf65-59ca7a952330" executionId="c7e03b85-2561-48ed-86d3-73f3fdd9f05d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="cfc7d755-80ff-a355-e474-ce168d84bb09" executionId="f6bcf195-799f-49cd-8d57-26923b355489" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d8418219-da30-13ab-ec51-efc8fd0d35bb" executionId="ad8fdd72-f21d-4ee5-8e7a-de6413742f81" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="545df5b3-1f87-6ed7-fde4-749a8c229af3" executionId="8f394985-991c-411f-bb2a-590c38ebb31d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b0090688-a186-0925-4486-c7db650b82c1" executionId="44582064-535a-43bb-9cbc-4df97f29a5a8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b6df9021-9ebc-7281-325d-619d6d56e88e" executionId="fa05c54a-01fe-4085-9f15-8956f556adf3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5b0d5629-0953-77e2-6a88-019122234fc5" executionId="d0e07a01-fb98-4ee9-ad83-bca048fa0cdc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9c237736-64a7-fdf4-55f7-8b1b0bd598cb" executionId="0a612d6a-5446-4641-937c-f3f8f27961fa" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="12fa0309-239e-b846-9a7e-9f928476c203" executionId="5b038354-0a49-470a-a0d3-6b3721178281" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="cf85fb58-cb77-a4de-9257-06530699a124" executionId="50c40b07-c4df-4124-964d-01fcbb6f8f07" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b473ccd2-abd3-af2d-7ff4-2b619983e9f5" executionId="00ab2071-424a-4efc-93a1-59d6dad32827" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5cb8968a-3713-5dbf-f13f-2da59995cedd" executionId="cd0c96ed-2bb3-4d20-84ac-9f7f0756edba" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="567a1bd3-60a9-cd47-b522-b4deb8445bd0" executionId="0e65afb8-db07-4e4e-9f5e-5db2f61599ab" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8eda6614-0c5e-8587-21eb-6297adcd3dc0" executionId="bcf19e25-2f61-4b2c-a1bc-4abe3e1350dd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Resultados sin formato de lista" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Todos los resultados cargados" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="19" executed="19" passed="19" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>[xUnit.net 00:00:00.00] xUnit.net VSTest Adapter v2.8.2+699d445a1a (64-bit .NET 8.0.11)&#xD;
+[xUnit.net 00:00:00.75]   Discovering: Presentation.Tests.Integration&#xD;
+[xUnit.net 00:00:00.82]   Discovered:  Presentation.Tests.Integration&#xD;
+[xUnit.net 00:00:00.83]   Starting:    Presentation.Tests.Integration&#xD;
+21:53:28.999 -05:00 [Information] [] Starting host&#xD;
+21:53:28.999 -05:00 [Information] [] Starting host&#xD;
+21:53:28.999 -05:00 [Information] [] Starting host&#xD;
+21:53:28.999 -05:00 [Information] [] Starting host&#xD;
+21:53:29.266 -05:00 [Warning] [Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.&#xD;
+21:53:29.266 -05:00 [Warning] [Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.&#xD;
+21:53:29.265 -05:00 [Warning] [Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.&#xD;
+21:53:29.266 -05:00 [Warning] [Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.&#xD;
+21:53:29.347 -05:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/version" responded 200 in 92.5555 ms&#xD;
+21:53:29.367 -05:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/author/fake" responded 400 in 114.2624 ms&#xD;
+21:53:29.886 -05:00 [Information] [] Starting host&#xD;
+21:53:29.930 -05:00 [Warning] [Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.&#xD;
+21:53:29.934 -05:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/author/1" responded 400 in 3.8222 ms&#xD;
+21:53:29.994 -05:00 [Information] [] Starting host&#xD;
+21:53:30.049 -05:00 [Warning] [Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.&#xD;
+21:53:30.054 -05:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/author/00000000-0000-0000-0000-000000000000" responded 400 in 4.8938 ms&#xD;
+21:53:30.104 -05:00 [Information] [] Starting host&#xD;
+21:53:30.149 -05:00 [Warning] [Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.&#xD;
+21:53:30.772 -05:00 [Information] [Microsoft.EntityFrameworkCore.Update] Saved 0 entities to in-memory store.&#xD;
+21:53:30.772 -05:00 [Information] [Microsoft.EntityFrameworkCore.Update] Saved 0 entities to in-memory store.&#xD;
+21:53:30.772 -05:00 [Information] [Microsoft.EntityFrameworkCore.Update] Saved 0 entities to in-memory store.&#xD;
+21:53:31.540 -05:00 [Information] [Microsoft.EntityFrameworkCore.Update] Saved 215 entities to in-memory store.&#xD;
+21:53:31.540 -05:00 [Information] [Microsoft.EntityFrameworkCore.Update] Saved 215 entities to in-memory store.&#xD;
+21:53:31.541 -05:00 [Information] [Microsoft.EntityFrameworkCore.Update] Saved 215 entities to in-memory store.&#xD;
+21:53:31.824 -05:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/review" responded 200 in 2571.2068 ms&#xD;
+21:53:31.824 -05:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/movie" responded 200 in 2571.8046 ms&#xD;
+21:53:31.824 -05:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/author" responded 200 in 1675.2935 ms&#xD;
+21:53:31.907 -05:00 [Information] [] Starting host&#xD;
+21:53:31.913 -05:00 [Information] [] Starting host&#xD;
+21:53:31.945 -05:00 [Information] [Microsoft.EntityFrameworkCore.Update] Saved 1 entities to in-memory store.&#xD;
+21:53:31.955 -05:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "DELETE" "/api/review/2378a383-1185-43d3-93eb-8f67362b5c1f" responded 204 in 119.3914 ms&#xD;
+21:53:31.959 -05:00 [Warning] [Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.&#xD;
+21:53:31.963 -05:00 [Warning] [Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.&#xD;
+21:53:31.968 -05:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/movie/00000000-0000-0000-0000-000000000000" responded 400 in 5.8921 ms&#xD;
+21:53:32.016 -05:00 [Information] [] Starting host&#xD;
+21:53:32.029 -05:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/review/2378a383-1185-43d3-93eb-8f67362b5c1f" responded 404 in 73.4193 ms&#xD;
+21:53:32.072 -05:00 [Information] [] Starting host&#xD;
+21:53:32.078 -05:00 [Warning] [Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.&#xD;
+21:53:32.083 -05:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/movie/1" responded 400 in 5.1228 ms&#xD;
+21:53:32.128 -05:00 [Information] [] Starting host&#xD;
+21:53:32.133 -05:00 [Warning] [Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.&#xD;
+21:53:32.188 -05:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/author" responded 200 in 228.9878 ms&#xD;
+21:53:32.194 -05:00 [Warning] [Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.&#xD;
+21:53:32.200 -05:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/movie/fake" responded 400 in 5.6906 ms&#xD;
+21:53:32.246 -05:00 [Information] [] Starting host&#xD;
+21:53:32.302 -05:00 [Information] [] Starting host&#xD;
+21:53:32.349 -05:00 [Warning] [Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.&#xD;
+21:53:32.356 -05:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/review/00000000-0000-0000-0000-000000000000" responded 400 in 7.1123 ms&#xD;
+21:53:32.395 -05:00 [Information] [] Starting host&#xD;
+21:53:32.413 -05:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/movie" responded 200 in 110.1399 ms&#xD;
+21:53:32.446 -05:00 [Warning] [Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.&#xD;
+21:53:32.450 -05:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/review/1" responded 400 in 4.3504 ms&#xD;
+21:53:32.490 -05:00 [Information] [] Starting host&#xD;
+21:53:32.538 -05:00 [Warning] [Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.&#xD;
+21:53:32.542 -05:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/review/fake" responded 400 in 4.2998 ms&#xD;
+21:53:32.578 -05:00 [Information] [] Starting host&#xD;
+21:53:32.620 -05:00 [Warning] [Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.&#xD;
+21:53:32.656 -05:00 [Information] [Microsoft.EntityFrameworkCore.Update] Saved 0 entities to in-memory store.&#xD;
+21:53:32.680 -05:00 [Information] [Microsoft.EntityFrameworkCore.Update] Saved 215 entities to in-memory store.&#xD;
+21:53:32.688 -05:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/review" responded 200 in 68.7329 ms&#xD;
+21:53:32.698 -05:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/review/d4e9a73e-ad3c-45fa-b76b-afb0319c710a" responded 200 in 5.7332 ms&#xD;
+21:53:32.726 -05:00 [Information] [] Starting host&#xD;
+21:53:32.759 -05:00 [Warning] [Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.&#xD;
+21:53:32.808 -05:00 [Information] [Microsoft.EntityFrameworkCore.Update] Saved 0 entities to in-memory store.&#xD;
+21:53:32.827 -05:00 [Information] [Microsoft.EntityFrameworkCore.Update] Saved 215 entities to in-memory store.&#xD;
+21:53:32.840 -05:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/author" responded 200 in 80.6564 ms&#xD;
+21:53:32.855 -05:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/movie" responded 200 in 11.9840 ms&#xD;
+21:53:32.907 -05:00 [Information] [Microsoft.EntityFrameworkCore.Update] Saved 1 entities to in-memory store.&#xD;
+21:53:32.933 -05:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/review" responded 201 in 67.1291 ms&#xD;
+21:53:32.973 -05:00 [Information] [] Starting host&#xD;
+21:53:33.009 -05:00 [Warning] [Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.&#xD;
+21:53:33.056 -05:00 [Information] [Microsoft.EntityFrameworkCore.Update] Saved 0 entities to in-memory store.&#xD;
+21:53:33.079 -05:00 [Information] [Microsoft.EntityFrameworkCore.Update] Saved 215 entities to in-memory store.&#xD;
+21:53:33.097 -05:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/author" responded 200 in 87.9121 ms&#xD;
+21:53:33.122 -05:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/movie" responded 200 in 16.1014 ms&#xD;
+21:53:33.132 -05:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/review" responded 200 in 8.1161 ms&#xD;
+21:53:33.158 -05:00 [Information] [Microsoft.EntityFrameworkCore.Update] Saved 1 entities to in-memory store.&#xD;
+21:53:33.159 -05:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "PUT" "/api/review/328587f1-797a-4c29-8f63-ed9f4d585013" responded 204 in 25.3272 ms&#xD;
+21:53:33.165 -05:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/review/328587f1-797a-4c29-8f63-ed9f4d585013" responded 200 in 5.7627 ms&#xD;
+[xUnit.net 00:00:09.89]   Finished:    Presentation.Tests.Integration&#xD;
+</StdOut>
+    </Output>
+  </ResultSummary>
+</TestRun>
